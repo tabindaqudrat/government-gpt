@@ -1,5 +1,5 @@
 {
-  "name": "numainda",
+  "name": "Government GPT",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -51,7 +51,7 @@
     "nanoid": "^5.0.7",
     "next": "^13.4.8",
     "next-themes": "^0.2.1",
-    "openai": "^5.12.2",
+    "openai": "^4.62.1",
     "pdf-parse": "^1.1.1",
     "postgres": "^3.4.4",
     "react": "^18.2.0",
